@@ -1,0 +1,24 @@
+{
+    "AS_Button_d5d4db470cb04f52a8d3b4e7f9173a11": {
+        "id": "AS_Button_d5d4db470cb04f52a8d3b4e7f9173a11",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e05357dfbe7a4e33a3496632f6b62b18"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ca3ea41adf2b494fa2df894fae3e916f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert('Hello, World!');",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
